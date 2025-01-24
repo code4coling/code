@@ -1,0 +1,1206 @@
+{
+    "train": [
+        {
+            "instruction": "Task: In this task, you are given a sentence. Your task is to classify the sentiment of the sentence as 'positive', 'negative' or 'neutral'.",
+            "input": "open",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Given some text, you need to determine if the sentiment in the text is positive, negative or neutral.",
+            "input": "inferior",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: In this task, you are given a sentence. Your task is to classify the sentiment of the sentence as 'positive', 'negative' or 'neutral'.",
+            "input": "not offensive",
+            "output": "positive"
+        },
+        {
+            "instruction": "Classify the sentiment (positive, neutral, negative) of the following text.",
+            "input": "beautiful",
+            "output": "positive"
+        },
+        {
+            "instruction": "You need to select whether the given sentence has a positive or negative sentiment. A positive sentiment means that overall, the sentence conveys happy/good emotions whereas a negative sentiment means that overall, it conveys unhappy/bad emotions. Note that even if there are some neutral words like \"okay\" or \"fine\", if they don't change the general tone of the sentence, then you should take them into account while giving your answer.",
+            "input": "wrong",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a passage, predict whether the sentiment is positive, negative or neutral.",
+            "input": "federal",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task, you are given a paragraph. Your task is to determine whether the it is positive, negative or neutral with respect to its tone/sentiment.",
+            "input": "harsh",
+            "output": "negative"
+        },
+        {
+            "instruction": "A sentence is provided. You need to determine whether it has a positive, negative or neutral sentiment.",
+            "input": "young",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: You are given a fragment of text. Your task is to determine whether the attribute belongs to either positive, negative or neutral sentiment.",
+            "input": "red",
+            "output": "neutral"
+        },
+        {
+            "instruction": "You are provided with a piece of text and asked to detect the sentiment expressed in it. Output the sentiment as either positive, negative, or neutral.",
+            "input": "angry",
+            "output": "negative"
+        },
+        {
+            "instruction": "Classify these sentences as positive, negative, or neutral in sentiment.",
+            "input": "long",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a set of sentences. The task is to identify whether the sentiment in the text span is \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "incorrect",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. Your task is to determine whether the sentiment of the sentence is 'positive', 'negative' or 'neutral'.",
+            "input": "american",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: Classify the sentiment of the following review as either POSITIVE, NEGATIVE, or NEUTRAL.",
+            "input": "poisonous",
+            "output": "negative"
+        },
+        {
+            "instruction": "You are provided with a piece of text and asked to detect the sentiment expressed in it. Output the sentiment as either positive, negative, or neutral.",
+            "input": "different",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task, you will be asked to annotate short phrases with one of three sentiment tags: Positive, Negative or Neutral.",
+            "input": "troublesome",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: What's the overall sentiment of the document? you can answer \"positive\", \"negative\" or \"neutral\".",
+            "input": "erroneous",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a sentence, classify the sentiment into positive, negative or neutral.",
+            "input": "not stormy",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are given a section of text. Your task is to determine whether it contains either positive or negative sentiment about the environment or is neutral i.e., not related with respect to the environment .",
+            "input": "pleasant",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you are asked to label the sentiment of a given sentence. The sentiment can be \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "supreme",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. Your task is to determine whether the sentiment conveyed in the sentence is positive, negative or neutral with respect to the tone of the author.",
+            "input": "difficult",
+            "output": "negative"
+        },
+        {
+            "instruction": "Instruction: In this task, you are asked to find the sentiment of a given text. The sentiment can be \"positive\", \"negative\" or \"neutral\".",
+            "input": "abusive",
+            "output": "negative"
+        },
+        {
+            "instruction": "Detect the sentiment of the following sentence. Output \"positive\", \"neutral\", or \"negative\".",
+            "input": "stunning",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are given a word. Your task is to determine whether it is positive, negative or neutral with respect to sentiment.",
+            "input": "local",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Analyze the following text for sentiment and output whether it is positive, neutral or negative.",
+            "input": "impossible",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: In this task, you need to determine the sentiment of a given review. The sentiment can be \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "insecure",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: You are provided with an extract from a text. Your task is to identify the sentiment of the text as'positive','negative,'or'neutral.'",
+            "input": "obscure",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you are given a paragraph of text. The task is to identify whether the sentiment of the paragraph as a whole is \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "naughty",
+            "output": "negative"
+        },
+        {
+            "instruction": "Classify this sample string for sentiment as either positive, negative, or neutral.",
+            "input": "not dignified",
+            "output": "negative"
+        },
+        {
+            "instruction": "Classify the sentiment of this sentence. the possible output labels are: \"positive\", \"negative\" and \"neutral\".",
+            "input": "german",
+            "output": "neutral"
+        },
+        {
+            "instruction": "You are given some text and you need to detect the sentiment of that text. The sentiment can be 'positive', 'neutral', or 'negative'.",
+            "input": "military",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: Identify if the passage is positive, negative or neutral sentiment.",
+            "input": "indian",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Given a sentence, classify the sentiment in the sentence as 'Positive', 'Negative' or 'Neutral'.",
+            "input": "sane",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are given a sentence. Your task is to determine whether the sentiment of the sentence is positive, negative or neutral.",
+            "input": "left",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a sentence written in natural language. Your job is to return the sentiment of the whole sentence as either \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "picturesque",
+            "output": "positive"
+        },
+        {
+            "instruction": "Given a sentence, identify whether its sentiment is positive, negative, or neutral.",
+            "input": "human",
+            "output": "neutral"
+        },
+        {
+            "instruction": "You are given a sentence. Your task is to determine whether the sentiment of the sentence is positive, negative or neutral.",
+            "input": "not finer",
+            "output": "negative"
+        },
+        {
+            "instruction": "Classify whether the paragraph has a positive, negative or neutral sentiment.",
+            "input": "honest",
+            "output": "positive"
+        },
+        {
+            "instruction": "Classify the sentiment (positive, neutral, negative) of the following text.",
+            "input": "native",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you need to determine the sentiment of a piece of text. Sentiment here can be 'positive', 'negative' or 'neutral'.",
+            "input": "early",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Detect the sentiment of the following statement and categorize it into one of the following: positive, negative, or neutral.",
+            "input": "middle",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: Classify the sentiment of the given sentence as \"Positive\", \"Negative\" or \"Neutral\".",
+            "input": "lucrative",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. You need to determine whether the sentiment of the sentence is positive, negative or neutral.",
+            "input": "unwilling",
+            "output": "negative"
+        },
+        {
+            "instruction": "You are given a word. Your task is to determine whether it is positive, negative or neutral with respect to sentiment.",
+            "input": "british",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: Classify the sentiment of the following review as either POSITIVE, NEGATIVE, or NEUTRAL.",
+            "input": "superb",
+            "output": "positive"
+        },
+        {
+            "instruction": "Classify whether the paragraph has a positive, negative or neutral sentiment.",
+            "input": "healthy",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: Determine if the given paragraph is mostly positive, negative, or neutral. A positive sentiment means that most of thetext expresses Positive Emotions. A Negative sentimentmeans that most of the text expresses NegativeEmotions. If there are roughly equal number ofpositive and negative emotions expressed in thetext then it is considered to have a NeutralSentiment",
+            "input": "bad",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you are given a sentence written in natural language. Your job is to return the sentiment of the whole sentence as either \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "sensational",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are given a passage. Your task is to determine the sentiment in the passage as 'positive', 'negative' or 'neutral'.",
+            "input": "delightful",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you are asked to label the sentiment of a given sentence. The sentiment can be \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "excellent",
+            "output": "positive"
+        },
+        {
+            "instruction": "Instruction: Given a sentence, you are required to classify the sentiment of the sentence as 'positive', 'negative' or 'neutral'.",
+            "input": "congenial",
+            "output": "positive"
+        },
+        {
+            "instruction": "You need to select whether the given sentence has a positive or negative sentiment. A positive sentiment means that overall, the sentence conveys happy/good emotions whereas a negative sentiment means that overall, it conveys unhappy/bad emotions. Note that even if there are some neutral words like \"okay\" or \"fine\", if they don't change the general tone of the sentence, then you should take them into account while giving your answer.",
+            "input": "evil",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: What's the sentiment? (positive, negative or neutral)",
+            "input": "not greatest",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a sentence, classify it according to sentiment (positive / neutral / negative).",
+            "input": "sociable",
+            "output": "positive"
+        },
+        {
+            "instruction": "What's the sentiment of the sentence? possible answers include: negative, neutral, positive.",
+            "input": "indulgent",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: In this task, you need to detect the sentiment in a given sentence. The acceptable values for sentiment are 'Positive', 'Negative' and 'Neutral'.",
+            "input": "favorable",
+            "output": "positive"
+        },
+        {
+            "instruction": "What is the sentiment of the document? (e.g. positive, negative, neutral)",
+            "input": "happy",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you need to find out the sentiment of the given text. output one of the following: positive , negative , neutral .",
+            "input": "bitter",
+            "output": "negative"
+        },
+        {
+            "instruction": "Predict whether this sentence is positive or negative in sentiment. if you are unsure output neutral.",
+            "input": "good",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you are given a passage of text. Your job is to determine the sentiment of the passage as \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "quaint",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: In this task, you are asked to label the sentiment of a review as \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "dirty",
+            "output": "negative"
+        },
+        {
+            "instruction": "For this task, you are given a text. Your task is to classify the sentiment of the text as 'positive', 'negative' or 'neutral'.",
+            "input": "green",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: Select a sentence in the paragraph and output its sentiment. the sentiment labels are: positive, negative, neutral.",
+            "input": "preferable",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: Classify whether a given sentence has positive, negative or neutral sentiment. output \"positive\", \"negative\" or \"neutral\".",
+            "input": "damaging",
+            "output": "negative"
+        },
+        {
+            "instruction": "Classify these sentences as positive, negative, or neutral in sentiment.",
+            "input": "current",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Classify the sentiment (positive, neutral, negative) of the following text.",
+            "input": "less",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are asked to determine the sentiment of a given text. The sentiment can be 'positive', 'negative' or 'neutral'.",
+            "input": "french",
+            "output": "neutral"
+        },
+        {
+            "instruction": "For this task, you are given a text. Your task is to classify the sentiment of the text as 'positive', 'negative' or 'neutral'.",
+            "input": "bright",
+            "output": "positive"
+        },
+        {
+            "instruction": "Classify the sentiment of this sentence. the possible output labels are: \"positive\", \"negative\" and \"neutral\".",
+            "input": "attractive",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: You are given a sentence and you need to detect the sentiment of this sentence. output positive, negative or neutral.",
+            "input": "black",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task you are given a paragraph of text. Your task is to determine if the sentiment in that paragraph is positive, negative or neutral.",
+            "input": "white",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task, you are given a sentence. Your task is to classify the sentiment of the sentence into 'positive', 'negative' or 'neutral'.",
+            "input": "chinese",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Assign a sentiment category (positive / negative / neutral) to the given text.",
+            "input": "courteous",
+            "output": "positive"
+        },
+        {
+            "instruction": "Tell me the sentiment of the following text. output \"positive\", \"negative\", or \"neutral\".",
+            "input": "civil",
+            "output": "neutral"
+        },
+        {
+            "instruction": "For this task, you are given a text. Your task is to classify the sentiment of the text as 'positive', 'negative' or 'neutral'.",
+            "input": "nasty",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a sentence, identify whether its sentiment is positive, negative, or neutral.",
+            "input": "disruptive",
+            "output": "negative"
+        },
+        {
+            "instruction": "Instruction: In this task, you are asked to find the sentiment of a given text. The sentiment can be \"positive\", \"negative\" or \"neutral\".",
+            "input": "major",
+            "output": "neutral"
+        },
+        {
+            "instruction": "A sentence is provided. You need to determine whether it has a positive, negative or neutral sentiment.",
+            "input": "barren",
+            "output": "negative"
+        },
+        {
+            "instruction": "Take an input sentence and output its sentiment polarity as positive, negative or neutral.",
+            "input": "new",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Analyze the following text for sentiment and output whether it is positive, neutral or negative.",
+            "input": "deadly",
+            "output": "negative"
+        },
+        {
+            "instruction": "Instruction: Tell me the sentiment of the following text. output \"positive\", \"negative\", or \"neutral\".",
+            "input": "outstanding",
+            "output": "positive"
+        },
+        {
+            "instruction": "Read a passage and detect the sentiment. it can be either positive, negative or neutral.",
+            "input": "not fantastic",
+            "output": "negative"
+        },
+        {
+            "instruction": "You are given a passage. Your task is to determine the sentiment in the passage as 'positive', 'negative' or 'neutral'.",
+            "input": "private",
+            "output": "neutral"
+        },
+        {
+            "instruction": "What's the sentiment? (positive, negative or neutral)",
+            "input": "active",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Detect the sentiment of the following sentence. Output \"positive\", \"neutral\", or \"negative\".",
+            "input": "japanese",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. Your task is to determine whether the sentiment conveyed in the sentence is positive, negative or neutral with respect to the tone of the author.",
+            "input": "full",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task, you need to detect the sentiment in a given sentence. The acceptable values for sentiment are 'Positive', 'Negative' and 'Neutral'.",
+            "input": "disabled",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a sentence, identify its sentiment. you can choose between: positive, negative, neutral.",
+            "input": "personal",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. Your task is to determine whether the sentiment in the sentence is positive, negative or neutral.",
+            "input": "harmonious",
+            "output": "positive"
+        },
+        {
+            "instruction": "Given a sentence, classify it according to sentiment (positive / neutral / negative).",
+            "input": "idle",
+            "output": "negative"
+        },
+        {
+            "instruction": "You are building a machine learning system to automatically identify the sentiment of user-generated reviews. In this task, you will be given one review at a time, and your job is to label it as 'Positive', 'Negative', or 'Neutral'.",
+            "input": "golden",
+            "output": "positive"
+        },
+        {
+            "instruction": "You need to answer the question 'Does the passage have a positive, negative, or neutral sentiment?', given a piece of text. Your answer must be one of three: Positive, Negative, or Neutral.",
+            "input": "canadian",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. Your task is to determine whether the sentiment conveyed in the sentence is positive, negative or neutral with respect to the tone of the author.",
+            "input": "sophisticated",
+            "output": "positive"
+        },
+        {
+            "instruction": "Given the following text, detect if the sentiment is positive, negative, or neutral.",
+            "input": "nice",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: Select a sentence in the paragraph and output its sentiment. the sentiment labels are: positive, negative, neutral.",
+            "input": "righteous",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: Determine if the given paragraph is mostly positive, negative, or neutral. A positive sentiment means that most of thetext expresses Positive Emotions. A Negative sentimentmeans that most of the text expresses NegativeEmotions. If there are roughly equal number ofpositive and negative emotions expressed in thetext then it is considered to have a NeutralSentiment",
+            "input": "severe",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: In this task, you are given a paragraph. Your task is to determine whether the it is positive, negative or neutral with respect to its tone/sentiment.",
+            "input": "cheerful",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: Identify if the passage is positive, negative or neutral sentiment.",
+            "input": "own",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Given the following text, detect if the sentiment is positive, negative, or neutral.",
+            "input": "traumatic",
+            "output": "negative"
+        },
+        {
+            "instruction": "Based on the description, classify the following sentence as negative, positive or neutral sentiment.",
+            "input": "average",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a piece of text. Your task is to determine the sentiment (positive or negative) of the text and write 'Positive' if it's positive, 'Negative', if it's negative and 'Neutral' otherwise.",
+            "input": "poor",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a sentence, identify its sentiment. you can choose between: positive, negative, neutral.",
+            "input": "precarious",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: In this task you are given a paragraph of text. Your task is to determine if the sentiment in that paragraph is positive, negative or neutral.",
+            "input": "not delicate",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you are asked to label the sentiment of a given sentence. The sentiment can be \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "medical",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task, you need to determine the sentiment of a given review. The sentiment can be \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "unhealthy",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a sentence, identify its sentiment. you can choose between: positive, negative, neutral.",
+            "input": "late",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are asked to label the sentiment of a given review as \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "senior",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you need to determine the sentiment of a piece of text. Sentiment here can be 'positive', 'negative' or 'neutral'.",
+            "input": "unhappy",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given the following text, detect if the sentiment is positive, negative, or neutral.",
+            "input": "northern",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are asked to determine the sentiment of a given text. The sentiment can be 'positive', 'negative' or 'neutral'.",
+            "input": "reputable",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: You are given a set of reviews about an item. Your task is to determine if the sentiment in the review is positive, negative or neutral. A sentiment can be positive even if it has some negative aspects to it and vice versa.",
+            "input": "southern",
+            "output": "neutral"
+        },
+        {
+            "instruction": "What's the sentiment? (positive, negative or neutral)",
+            "input": "ideal",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: What's the sentiment? (positive, negative or neutral)",
+            "input": "political",
+            "output": "neutral"
+        },
+        {
+            "instruction": "You are given a question, and you need to determine the sentiment in it. The possible labels for sentiment are 'positive', 'negative' or 'neutral'.",
+            "input": "not invalid",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you are asked to label the sentiment of sentences. The sentiment can be \"POSITIVE\", \"NEGATIVE\", or \"NEUTRAL\".",
+            "input": "legendary",
+            "output": "positive"
+        },
+        {
+            "instruction": "Instruction: Identify the sentiment of the following text. sentiment can be one of the following categories: positive, negative, neutral, mixed.",
+            "input": "most",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Tell me the sentiment of the following text. output \"positive\", \"negative\", or \"neutral\".",
+            "input": "rocky",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you are asked to detect the sentiment of a review. The sentiment can be \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "not healthful",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you need to determine the sentiment of a piece of text. Sentiment here can be 'positive', 'negative' or 'neutral'.",
+            "input": "unfortunate",
+            "output": "negative"
+        },
+        {
+            "instruction": "Analyze the text using a sentiment analysis model to determine whether it is positive, negative or neutral.",
+            "input": "helpless",
+            "output": "negative"
+        },
+        {
+            "instruction": "You are given a sentence. Your task is to determine whether the sentiment in the sentence is positive, negative or neutral.",
+            "input": "altruistic",
+            "output": "positive"
+        },
+        {
+            "instruction": "You will be given a piece of text, and you need to rate the sentiment expressed in it as Positive, Negative or Neutral.",
+            "input": "confused",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a paragraph, predict the sentiment. output negative, neutral or positive.",
+            "input": "not sweet",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a string of text, identify the sentiment of the text. Output 'positive', 'negative' or 'neutral'",
+            "input": "not afraid",
+            "output": "positive"
+        },
+        {
+            "instruction": "Instruction: One of the most common sentiment analysis tasks is to classify whether a text document is positive, negative or neutral. In this task, you are given a text document and your job is to find the polarity of the document. A text document can be classified as 'positive', if it has at least 3 positive words (feel, happy, love etc.), otherwise it's 'negative'. If neither condition holds true (for example - \"I don't know.\"), we will mark it as 'neutral'.",
+            "input": "proper",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: In this task, you need to determine the sentiment of a given review. The sentiment can be \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "old",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a review (opinion) on something and your task is to classify the sentiment of the review as 'positive', 'negative' or 'neutral'.",
+            "input": "consummate",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: You are given a fragment of text. Your task is to determine whether the attribute belongs to either positive, negative or neutral sentiment.",
+            "input": "shallow",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given the following input, classify the sentiment of the text as either positive, negative, or neutral.",
+            "input": "many",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task, you are asked to label the sentiment of a review as \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "gracious",
+            "output": "positive"
+        },
+        {
+            "instruction": "Classify whether the given text contains positive, negative, or neutral sentiment. possible labels are: positive, negative, and neutral.",
+            "input": "not promising",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you are given a paragraph of text. The goal is to determine whether the sentiment in the text is \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "honorable",
+            "output": "positive"
+        },
+        {
+            "instruction": "You need to read in a piece of text, and then answer the question 'Is this piece of text mostly positive or negative?'. If the text is mainly positive, output Positive. If the text is mainly negative, output Negative. A word is considered positive if it has one of the following sentiment values: 'joy', 'delight', 'contentment', 'love', 'praise',",
+            "input": "big",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Given a paragraph, predict the sentiment. output negative, neutral or positive.",
+            "input": "idyllic",
+            "output": "positive"
+        },
+        {
+            "instruction": "Find the sentiment polarity (positive, negative, neutral) from the text.",
+            "input": "fortunate",
+            "output": "positive"
+        },
+        {
+            "instruction": "Classify the sentiment (positive, neutral, negative) of the following text.",
+            "input": "fearful",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: In this task, you are given a sentence. Your task is to classify the sentiment of the sentence as 'positive', 'negative' or 'neutral'.",
+            "input": "unacceptable",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a paragraph, predict the sentiment. output negative, neutral or positive.",
+            "input": "same",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: What's the overall sentiment of the document? you can answer \"positive\", \"negative\" or \"neutral\".",
+            "input": "cold",
+            "output": "negative"
+        },
+        {
+            "instruction": "Assign a sentiment category (positive / negative / neutral) to the given text.",
+            "input": "gorgeous",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: Identify if the passage is positive, negative or neutral sentiment.",
+            "input": "paranoid",
+            "output": "negative"
+        },
+        {
+            "instruction": "What's the sentiment? (positive, negative or neutral)",
+            "input": "great",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: In this task, you are given a sentence. Your task is to classify the sentiment of the sentence into 'positive', 'negative' or 'neutral'.",
+            "input": "miserable",
+            "output": "negative"
+        },
+        {
+            "instruction": "Assign a sentiment category (positive / negative / neutral) to the given text.",
+            "input": "african",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. Your task is to determine whether the sentiment of the sentence is 'positive', 'negative' or 'neutral'.",
+            "input": "dizzy",
+            "output": "negative"
+        },
+        {
+            "instruction": "Tell me the sentiment of the following text. output \"positive\", \"negative\", or \"neutral\".",
+            "input": "eastern",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. Your task is to determine whether the sentiment in the sentence is positive, negative or neutral.",
+            "input": "unrealistic",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a string of text, identify the sentiment of the text. Output 'positive', 'negative' or 'neutral'",
+            "input": "australian",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Given a sentence, predict the sentiment expressed in it. sentiment can be positive, negative, or neutral.",
+            "input": "catastrophic",
+            "output": "negative"
+        },
+        {
+            "instruction": "Classify these sentences as positive, negative, or neutral in sentiment.",
+            "input": "gentle",
+            "output": "positive"
+        },
+        {
+            "instruction": "Given some text, you need to determine if the sentiment in the text is positive, negative or neutral.",
+            "input": "previous",
+            "output": "neutral"
+        },
+        {
+            "instruction": "You will be given a piece of text, and you need to rate the sentiment expressed in it as Positive, Negative or Neutral.",
+            "input": "social",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Read a passage and detect the sentiment. it can be either positive, negative or neutral.",
+            "input": "original",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Given a passage, predict whether the sentiment is positive, negative or neutral.",
+            "input": "disappointing",
+            "output": "negative"
+        },
+        {
+            "instruction": "Classify the following sentence according to its sentiment (positive, neutral, negative).",
+            "input": "professional",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: What's the sentiment? (positive, negative or neutral)",
+            "input": "unconstitutional",
+            "output": "negative"
+        },
+        {
+            "instruction": "You are given a document. Your task is to figure out whether the sentiment in the document is positive, negative or neutral.",
+            "input": "virtuous",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are provided a paragraph of text. Identify if the sentiment in the paragraph is positive, negative or neutral.",
+            "input": "not ashamed",
+            "output": "positive"
+        },
+        {
+            "instruction": "Given a string of text, identify the sentiment of the text. Output 'positive', 'negative' or 'neutral'",
+            "input": "constructive",
+            "output": "positive"
+        },
+        {
+            "instruction": "Instruction: In this task, you are given a passage. Your task is to determine whether the underlined word in the context of that particular sentence conveys positive or negative sentiment. If it does not conveyed any sentiment, select 'neutral'.",
+            "input": "last",
+            "output": "neutral"
+        },
+        {
+            "instruction": "What's the sentiment? (positive, negative or neutral)",
+            "input": "special",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Given a sentence, identify its sentiment. you can choose between: positive, negative, neutral.",
+            "input": "unnatural",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: Classify the sentiment of the given sentence as \"Positive\", \"Negative\" or \"Neutral\".",
+            "input": "little",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Tell me the sentiment of the following text. output \"positive\", \"negative\", or \"neutral\".",
+            "input": "important",
+            "output": "positive"
+        },
+        {
+            "instruction": "Instruction: In this task, you are given a passage. Your task is to determine whether the underlined word in the context of that particular sentence conveys positive or negative sentiment. If it does not conveyed any sentiment, select 'neutral'.",
+            "input": "rigid",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: Classify whether the sentiment of the following text is positive, negative or neutral. you should respond with one of these three labels.",
+            "input": "high",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task you are given a paragraph of text. Your task is to determine if the sentiment in that paragraph is positive, negative or neutral.",
+            "input": "short",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a paragraph of text. The task is to identify whether the sentiment of the paragraph as a whole is \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "abnormal",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you are given a piece of text. Your task is to determine the sentiment (positive or negative) of the text and write 'Positive' if it's positive, 'Negative', if it's negative and 'Neutral' otherwise.",
+            "input": "unreliable",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you are given a set of sentences. The task is to identify whether the sentiment in the text span is \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "dangerous",
+            "output": "negative"
+        },
+        {
+            "instruction": "Take an input sentence and output its sentiment polarity as positive, negative or neutral.",
+            "input": "not stupid",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are given a question, and you need to determine the sentiment in it. The possible labels for sentiment are 'positive', 'negative' or 'neutral'.",
+            "input": "principled",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are given some text and you need to detect the sentiment of that text. The sentiment can be 'positive', 'neutral', or 'negative'.",
+            "input": "comfortable",
+            "output": "positive"
+        },
+        {
+            "instruction": "Take an input sentence and output its sentiment polarity as positive, negative or neutral.",
+            "input": "unable",
+            "output": "negative"
+        },
+        {
+            "instruction": "You are given a sentence. Your task is to determine whether the sentiment in the sentence is positive, negative or neutral. Sentences with words such as 'not' and 'no' convey a negative sentiment whereas those with phrases like 'thank you', 'brilliant' show a positive one. If neither of them can be determined, then it should output asneutral",
+            "input": "formidable",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are provided with a piece of text and asked to detect the sentiment expressed in it. Output the sentiment as either positive, negative, or neutral.",
+            "input": "defunct",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a string of text, identify the sentiment of the text. Output 'positive', 'negative' or 'neutral'",
+            "input": "single",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a review (opinion) on something and your task is to classify the sentiment of the review as 'positive', 'negative' or 'neutral'.",
+            "input": "central",
+            "output": "neutral"
+        },
+        {
+            "instruction": "You are given a word. Your task is to determine whether it is positive, negative or neutral with respect to sentiment.",
+            "input": "incapable",
+            "output": "negative"
+        },
+        {
+            "instruction": "For this task, you are given a text. Your task is to classify the sentiment of the text as 'positive', 'negative' or 'neutral'.",
+            "input": "front",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Given the following input, classify the sentiment of the text as either positive, negative, or neutral.",
+            "input": "coherent",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are given a question, and you need to determine the sentiment in it. The possible labels for sentiment are 'positive', 'negative' or 'neutral'.",
+            "input": "general",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Given some text, you need to determine if the sentiment in the text is positive, negative or neutral.",
+            "input": "amicable",
+            "output": "positive"
+        },
+        {
+            "instruction": "Find out the sentiment polarity of the document. output positive, neutral, negative.",
+            "input": "least",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Instruction: In this task, you are asked to find the sentiment of a given text. The sentiment can be \"positive\", \"negative\" or \"neutral\".",
+            "input": "wild",
+            "output": "negative"
+        },
+        {
+            "instruction": "Analyze the sentiment of the sentence as negative, positive or neutral.",
+            "input": "amiable",
+            "output": "positive"
+        },
+        {
+            "instruction": "Design an algorithm to classify text into positive, negative, and neutral sentiment.",
+            "input": "not adamant",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: You are given a fragment of text. Your task is to determine whether the attribute belongs to either positive, negative or neutral sentiment.",
+            "input": "solid",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you are asked to detect the sentiment of a review. The sentiment can be \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "worthy",
+            "output": "positive"
+        },
+        {
+            "instruction": "Classify these sentences as positive, negative, or neutral in sentiment.",
+            "input": "precise",
+            "output": "positive"
+        },
+        {
+            "instruction": "Instruction: In this task, you are asked to find the sentiment of a given text. The sentiment can be \"positive\", \"negative\" or \"neutral\".",
+            "input": "public",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. The task is to determine whether the sentiment of the sentence is \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "involuntary",
+            "output": "negative"
+        }
+    ],
+    "val": [
+        {
+            "instruction": "You are given a section of text. Your task is to determine whether it contains either positive or negative sentiment about the environment or is neutral i.e., not related with respect to the environment .",
+            "input": "russian",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task, you are given a sentence. Your task is to classify the sentiment of the sentence into 'positive', 'negative' or 'neutral'.",
+            "input": "improper",
+            "output": "negative"
+        },
+        {
+            "instruction": "You are given some text and you need to detect the sentiment of that text. The sentiment can be 'positive', 'neutral', or 'negative'.",
+            "input": "european",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Detect the sentiment of the following sentence. Output \"positive\", \"neutral\", or \"negative\".",
+            "input": "majestic",
+            "output": "positive"
+        },
+        {
+            "instruction": "What is the sentiment of the document? (e.g. positive, negative, neutral)",
+            "input": "not blind",
+            "output": "positive"
+        },
+        {
+            "instruction": "You will be given a piece of text, and you need to rate the sentiment expressed in it as Positive, Negative or Neutral.",
+            "input": "admirable",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are given a sentence. Your task is to determine whether the sentiment of the sentence is positive, negative or neutral.",
+            "input": "small",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Analyze the text using a sentiment analysis model to determine whether it is positive, negative or neutral.",
+            "input": "uncomfortable",
+            "output": "negative"
+        },
+        {
+            "instruction": "Detect the sentiment of the following statement and categorize it into one of the following: positive, negative, or neutral.",
+            "input": "decent",
+            "output": "positive"
+        },
+        {
+            "instruction": "You need to answer the question 'Does the passage have a positive, negative, or neutral sentiment?', given a piece of text. Your answer must be one of three: Positive, Negative, or Neutral.",
+            "input": "false",
+            "output": "negative"
+        },
+        {
+            "instruction": "You are given a passage. Your task is to determine the sentiment in the passage as 'positive', 'negative' or 'neutral'.",
+            "input": "clean",
+            "output": "positive"
+        },
+        {
+            "instruction": "Instruction: Identify the sentiment of the following text. sentiment can be one of the following categories: positive, negative, neutral, mixed.",
+            "input": "grim",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: Identify if the passage is positive, negative or neutral sentiment.",
+            "input": "lucky",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you need to find out the sentiment of the given text. output one of the following: positive , negative , neutral .",
+            "input": "worse",
+            "output": "negative"
+        },
+        {
+            "instruction": "You need to read in a piece of text, and then answer the question 'Is this piece of text mostly positive or negative?'. If the text is mainly positive, output Positive. If the text is mainly negative, output Negative. A word is considered positive if it has one of the following sentiment values: 'joy', 'delight', 'contentment', 'love', 'praise',",
+            "input": "embarrassing",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a sentence, classify the sentiment into positive, negative or neutral.",
+            "input": "female",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Design an algorithm to classify text into positive, negative, and neutral sentiment.",
+            "input": "best",
+            "output": "positive"
+        },
+        {
+            "instruction": "Given a sentence, predict the sentiment expressed in it. sentiment can be positive, negative, or neutral.",
+            "input": "awkward",
+            "output": "negative"
+        },
+        {
+            "instruction": "Given a sentence, classify it according to sentiment (positive / neutral / negative).",
+            "input": "common",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: In this task, you will be asked to annotate short phrases with one of three sentiment tags: Positive, Negative or Neutral.",
+            "input": "final",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: Classify whether the sentiment of the following text is positive, negative or neutral. you should respond with one of these three labels.",
+            "input": "loose",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you need to determine the sentiment of a piece of text. Sentiment here can be 'positive', 'negative' or 'neutral'.",
+            "input": "western",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are asked to label the sentiment of sentences. The sentiment can be \"POSITIVE\", \"NEGATIVE\", or \"NEUTRAL\".",
+            "input": "monumental",
+            "output": "positive"
+        },
+        {
+            "instruction": "Sentiment analysis - classify a sentence as positive, negative, or neutral.",
+            "input": "present",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Categorize the given sentiment as positive, negative, or neutral.",
+            "input": "not hostile",
+            "output": "positive"
+        },
+        {
+            "instruction": "You need to read in a piece of text, and then answer the question 'Is this piece of text mostly positive or negative?'. If the text is mainly positive, output Positive. If the text is mainly negative, output Negative. A word is considered positive if it has one of the following sentiment values: 'joy', 'delight', 'contentment', 'love', 'praise',",
+            "input": "due",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. You need to determine whether the sentiment of the sentence is positive, negative or neutral.",
+            "input": "upset",
+            "output": "negative"
+        },
+        {
+            "instruction": "Instruction: Tell me the sentiment of the following text. output \"positive\", \"negative\", or \"neutral\".",
+            "input": "loving",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. You need to determine whether the sentiment of the sentence is positive, negative or neutral.",
+            "input": "official",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are asked to label the sentiment of a given review as \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "meticulous",
+            "output": "positive"
+        },
+        {
+            "instruction": "What's the sentiment of the sentence? possible answers include: negative, neutral, positive.",
+            "input": "hopeless",
+            "output": "negative"
+        },
+        {
+            "instruction": "Find out the sentiment polarity of the document. output positive, neutral, negative.",
+            "input": "not privileged",
+            "output": "negative"
+        },
+        {
+            "instruction": "Instruction: Given a sentence, you are required to classify the sentiment of the sentence as 'positive', 'negative' or 'neutral'.",
+            "input": "italian",
+            "output": "neutral"
+        },
+        {
+            "instruction": "What is the sentiment of the document? (e.g. positive, negative, neutral)",
+            "input": "more",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Identify the sentiment of the following text. sentiment can be one of the following categories: positive, negative, neutral, mixed.",
+            "input": "perfect",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: You are given a sentence and you need to detect the sentiment of this sentence. output positive, negative or neutral.",
+            "input": "not merciful",
+            "output": "negative"
+        },
+        {
+            "instruction": "What's the sentiment of the sentence? possible answers include: negative, neutral, positive.",
+            "input": "few",
+            "output": "neutral"
+        },
+        {
+            "instruction": "You are given a sentence. Your task is to determine whether the sentiment in the sentence is positive, negative or neutral. Sentences with words such as 'not' and 'no' convey a negative sentiment whereas those with phrases like 'thank you', 'brilliant' show a positive one. If neither of them can be determined, then it should output asneutral",
+            "input": "restless",
+            "output": "negative"
+        },
+        {
+            "instruction": "Task: You are given a set of reviews about an item. Your task is to determine if the sentiment in the review is positive, negative or neutral. A sentiment can be positive even if it has some negative aspects to it and vice versa.",
+            "input": "brilliant",
+            "output": "positive"
+        },
+        {
+            "instruction": "Find the sentiment polarity (positive, negative, neutral) from the text.",
+            "input": "charming",
+            "output": "positive"
+        },
+        {
+            "instruction": "In this task, you need to find out the sentiment of the given text. output one of the following: positive , negative , neutral .",
+            "input": "close",
+            "output": "neutral"
+        },
+        {
+            "instruction": "Task: You are given a sentence and you need to detect the sentiment of this sentence. output positive, negative or neutral.",
+            "input": "better",
+            "output": "positive"
+        },
+        {
+            "instruction": "Sentiment analysis - classify a sentence as positive, negative, or neutral.",
+            "input": "inflammatory",
+            "output": "negative"
+        },
+        {
+            "instruction": "In this task, you are given a passage of text. Your job is to determine the sentiment of the passage as \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "intimate",
+            "output": "positive"
+        },
+        {
+            "instruction": "Task: Classify whether a given sentence has positive, negative or neutral sentiment. output \"positive\", \"negative\" or \"neutral\".",
+            "input": "regional",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a passage of text. Your job is to determine the sentiment of the passage as \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "national",
+            "output": "neutral"
+        },
+        {
+            "instruction": "In this task, you are given a sentence. The task is to determine whether the sentiment of the sentence is \"POSITIVE\", \"NEGATIVE\" or \"NEUTRAL\".",
+            "input": "not unfavorable",
+            "output": "positive"
+        },
+        {
+            "instruction": "You are given a sentence. Your task is to determine whether the sentiment of the sentence is positive, negative or neutral.",
+            "input": "dead",
+            "output": "negative"
+        }
+    ]
+}
